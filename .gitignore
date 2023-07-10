@@ -1,0 +1,6 @@
+#Ignore dirs .hbmk, .sessions,...
+**/.hbmk/
+**/.sessions/
+**/.tmp/
+**/log/
+**/z/
