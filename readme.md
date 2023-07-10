@@ -9,6 +9,8 @@ Debes dar acceso a ella con:
 user:harbour
 psw:hb1234 
 
+Compilado con Visual Studio 2022 Developer Command Prompt
+
 --------------------------------------------------------------------------------
 
 In order to run the example, you must create the dbharbour database with the
@@ -16,6 +18,8 @@ zip located in the \sql\dbharbour.sql.zip folder
 You must give access to it with:
 user:harbour
 psw:hb1234
+
+Compiled with Visual Studio 2022 Developer Command Prompt
 
 
 
