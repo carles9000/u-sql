@@ -3,7 +3,7 @@
 U-SQL project
 =============
 
-Para poder ejecutar loes ejemplo debes crear la base de datos dbharbour con el
+Para poder ejecutar el ejemplo debes crear la base de datos dbharbour con el
 zip que se encuentra en la carpeta \sql\dbharbour.sql.zip 
 Debes dar acceso a ella con:
 user:harbour
