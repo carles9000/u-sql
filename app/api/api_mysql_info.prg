@@ -8,7 +8,8 @@ function Api_MySql_Info( oDom )
 		
 	//	-------------------------
 
-	do case					
+	do case			
+		case oDom:GetProc() == 'initinfo'	; oDom:Set( 'server', '' )
 		case oDom:GetProc() == 'info'		; DoInfo( oDom )								
 		
 		otherwise 				
